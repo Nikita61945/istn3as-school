@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{784A502D-3FC1-4010-B1F1-9D5E6565D62B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Prototype_1___ProjectBlackBoard.My.MyApplication</StartupObject>
+    <RootNamespace>Prototype_1___ProjectBlackBoard</RootNamespace>
+    <AssemblyName>Prototype 1 - ProjectBlackBoard</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Prototype 1 - ProjectBlackBoard.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Prototype 1 - ProjectBlackBoard.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddLearner.Designer.vb">
+      <DependentUpon>AddLearner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddLearner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTutor.Designer.vb">
+      <DependentUpon>AddTutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddTutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignSubjectstoGrade.Designer.vb">
+      <DependentUpon>AssignSubjectstoGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssignSubjectstoGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaptureMarks.Designer.vb">
+      <DependentUpon>CaptureMarks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaptureMarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreatePOA.Designer.vb">
+      <DependentUpon>CreatePOA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePOA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpenAccount.Designer.vb">
+      <DependentUpon>OpenAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OpenAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpeningBalance.Designer.vb">
+      <DependentUpon>OpeningBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OpeningBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintFeeBalance.Designer.vb">
+      <DependentUpon>PrintFeeBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintFeeBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecordDiscount.Designer.vb">
+      <DependentUpon>RecordDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RecordDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturningLearners.Designer.vb">
+      <DependentUpon>ReturningLearners.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReturningLearners.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectChange.Designer.vb">
+      <DependentUpon>SubjectChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TermInfo.Designer.vb">
+      <DependentUpon>TermInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TermInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageUsers.Designer.vb">
+      <DependentUpon>ManageUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListOfGrade.Designer.vb">
+      <DependentUpon>ListOfGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListOfGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenInfoForm.Designer.vb">
+      <DependentUpon>GenInfoForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GenInfoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ViewLearner.Designer.vb" />
+    <Compile Include="ViewLearner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPOA.Designer.vb">
+      <DependentUpon>ViewPOA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPOA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddLearner.resx">
+      <DependentUpon>AddLearner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTutor.resx">
+      <DependentUpon>AddTutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignSubjectstoGrade.resx">
+      <DependentUpon>AssignSubjectstoGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaptureMarks.resx">
+      <DependentUpon>CaptureMarks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreatePOA.resx">
+      <DependentUpon>CreatePOA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenAccount.resx">
+      <DependentUpon>OpenAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpeningBalance.resx">
+      <DependentUpon>OpeningBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintFeeBalance.resx">
+      <DependentUpon>PrintFeeBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecordDiscount.resx">
+      <DependentUpon>RecordDiscount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturningLearners.resx">
+      <DependentUpon>ReturningLearners.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectChange.resx">
+      <DependentUpon>SubjectChange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TermInfo.resx">
+      <DependentUpon>TermInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageUsers.resx">
+      <DependentUpon>ManageUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOfGrade.resx">
+      <DependentUpon>ListOfGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenInfoForm.resx">
+      <DependentUpon>GenInfoForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLearner.resx" />
+    <EmbeddedResource Include="ViewPOA.resx">
+      <DependentUpon>ViewPOA.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

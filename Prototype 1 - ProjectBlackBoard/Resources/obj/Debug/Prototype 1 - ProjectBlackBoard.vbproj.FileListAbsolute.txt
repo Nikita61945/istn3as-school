@@ -1,0 +1,313 @@
+c:\users\student\documents\visual studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+C:\Users\Bibi Ayesha\Desktop\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form2.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form2.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Student\Documents\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TypeOfAssessForm.resources
+C:\Users\celin\Desktop\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.UpgradeForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TypeOfAssessForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.UpgradeForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TypeOfAssessForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.UpgradeForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ClockIn.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Report.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TypeOfAssessForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.UpgradeForm.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+E:\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TestReport.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Report.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TestReport.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources

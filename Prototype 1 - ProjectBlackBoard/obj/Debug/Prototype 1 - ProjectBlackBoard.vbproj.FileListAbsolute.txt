@@ -1,0 +1,1085 @@
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Major Project\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Saleem\Desktop\ISTNAS_1.1.tutor\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Saleem\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Saleem\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Saleem\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Saleem\Desktop\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+Z:\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Desktop\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\Nack ms\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\ISTN Major PRoject\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenReport.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Documents\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Blackboard.chm
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\FlashControlV71.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\stdole.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ApplicantsAppDetails.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Applications.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ArrearsListings.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeneralReports.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GradeData.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ProjectedTutorSalariesForMonth.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectBreakDown.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent3.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent4.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditExamTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTimeTable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final-20190715T141023Z-001\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ApplicantsAppDetails.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Applications.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ArrearsListings.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent2.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent3.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent4.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateTimetable.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditExamTimetable.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTimeTable.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeneralReports.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GradeData.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.HighestArchievers.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ProjectedTutorSalariesForMonth.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectBreakDown.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTimetable.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Student\Downloads\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Applications.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ArrearsListings.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent2.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent3.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent4.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateTimetable.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditExamTimetable.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTimeTable.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeneralReports.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GradeData.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.HighestArchievers.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ProjectedTutorSalariesForMonth.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectBreakDown.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTimetable.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateExamTimeTable.resources
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Blackboard.chm
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\FlashControlV71.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\stdole.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\217010318\Downloads\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewExamTimetable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Blackboard.chm
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\stdole.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Applications.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ArrearsListings.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent2.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent3.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent4.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateExamTimeTable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateTimetable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditExamTimetable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTimeTable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeneralReports.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GradeData.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.HighestArchievers.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ProjectedTutorSalariesForMonth.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectBreakDown.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTimetable.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Student\Desktop\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Blackboard.chm
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.pdb
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\FlashControlV71.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\stdole.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbprojResolveAssemblyReference.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddTutorToSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AddUser.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Applications.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ArrearsListings.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.AssignSubjectstoGrade.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CaptureMarks.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.captureMarks2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent2.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent3.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CellContent4.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseTerm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CloseYearFormvb.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateExamTimeTable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreatePOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.CreateTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditExamTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditLearnerForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTimeTable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Form1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.EditTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SetupRooms.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeneralReports.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GenFeeStForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GradeData.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.HighestArchievers.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfBaseSubjects.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfLearnersTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListTakingSubject.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Login.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.MonthlyStatement.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpenAccount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OpeningBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.OutstandingMarksForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PasswordChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintFeeBalance.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintLearnerComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintTermComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.PrintYearComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ProjectedTutorSalariesForMonth.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Record_Fees.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordDiscount.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RecordPaymentReciepts.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ReturningLearners.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.RptLComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Splash.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SplashScreen1.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectBreakDown.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectChange.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.SubjectDetails.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.T1Report.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TermInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ManageUsersForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ListOfGradesForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.GeInfoForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.Resources.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TransferOutForm.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TrmComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorRegister.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.TutorTimes.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewLearner.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewPOA.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTimetable.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutor.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.ViewTutorSalaries.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype_1___ProjectBlackBoard.YeComposite.resources
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.cache
+C:\Users\Bibi Ayesha\Desktop\ISTNAS_Final - With Splash\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\RdlCompile.compiled
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\bin\Debug\Prototype 1 - ProjectBlackBoard.exe.config
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Interop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\AxInterop.PDFXCviewAxLib.dll
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.vbproj.ResolveComReference.cache
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.exe
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.xml
+C:\Users\Bibi Ayesha\Desktop\Thrid Year\IstnM4\ISTNAS_Final - I think\ISTNAS_Final with Scheduling\ISTNAS_Final\Prototype 1 - ProjectBlackBoard\obj\Debug\Prototype 1 - ProjectBlackBoard.pdb

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Prototype 1 - ProjectBlackBoard
+</name>
+</assembly>
+<members>
+<member name="T:Prototype_1___ProjectBlackBoard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.ClosedLock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.ClosedLock1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.exitIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.feesIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.green_tick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.lock__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.lock__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.lock__2_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.OpenLock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.pngtree_vector_cog_wheel_icon_png_image_956693">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.SaveIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.small_green_check_mark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.students">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.Tutor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prototype_1___ProjectBlackBoard.My.Resources.Resources.WhatsApp_Image_2019_05_13_at_2_16_33_AM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.tblLearnerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataLearnerCompDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTermCompDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TRTempDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.dataEOYcompDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TblCompDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.tblLearnerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataLearnerCompRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTermCompRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TRTempRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.dataEOYcompRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TblCompRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.tblLearnerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataLearnerCompRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.DataTermCompRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TRTempRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.dataEOYcompRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1.TblCompRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.tblLearnerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.DataLearnerCompTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.DataTermCompTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TRTempTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.dataEOYcompTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TblCompTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Prototype_1___ProjectBlackBoard.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Prototype_1___ProjectBlackBoard.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Prototype_1___ProjectBlackBoard.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Prototype_1___ProjectBlackBoard.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Prototype_1___ProjectBlackBoard.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:Prototype_1___ProjectBlackBoard.ViewTutorSalaries.ViewTutorSalaries_Load(System.Object,System.EventArgs)">
+ <summary>
+ 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
